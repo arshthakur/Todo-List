@@ -10,4 +10,3 @@ The **To-Do List Project** is a simple yet powerful task management application 
 - Edit existing tasks
 - Filter tasks (e.g., by completion status)
 - Responsive design for mobile and desktop
-- git publish work
