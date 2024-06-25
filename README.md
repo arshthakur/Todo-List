@@ -24,11 +24,11 @@ The **Simple Todo App** is a web application designed to help users manage their
 
 ### Adding a Task
 
-![Adding a Task](screenshots/Screenshot2.png)
+![Adding a Task](screenshots/Screenshot3.png)
 
 ### Completed Tasks
 
-![Completed Tasks](screenshots/Screenshot3.png)
+![Completed Tasks](screenshots/Screenshot2.png)
 
 ## Installation
 
